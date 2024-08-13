@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+main {
+  background: radial-gradient(ellipse 50% 30% at top center, rgba(244, 6, 54, 0.6), transparent);
+}
