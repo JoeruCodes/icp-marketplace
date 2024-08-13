@@ -7,7 +7,7 @@ const Layout = ({children}: Readonly<{
     children: React.ReactNode;
   }> ) => {
   return (
-    <div className="flex bg-black flex-1">
+    <div className="flex h-screen bg-black flex-1">
         
     <div className="max-w-32 min-w-6 p-4 pr-2">
       <div className='bg-gray-800/50 w-full rounded-lg h-full'>
