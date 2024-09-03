@@ -26,7 +26,7 @@ const ProjectPopup = ({ isOpen, onClose }: any) => {
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-80">
       <div className="bg-gray-900 text-white p-6 rounded-lg shadow-lg max-w-3xl w-full">
-        <h2 className="text-2xl font-bold mb-4 ">Let's create your project.</h2>
+        <h2 className="text-2xl font-bold mb-4 ">Let&apos;s create your project.</h2>
         <form className="space-y-4">
           <div>
             <label className="block text-sm font-semibold mb-1">Project Name</label>

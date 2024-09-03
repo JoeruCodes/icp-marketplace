@@ -58,8 +58,8 @@ export default function Home() {
             showButton ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
           }`}
         >
-          <Link href={"/dashboard"}className="px-8 py-4 text-lg text-white rounded-md bg-gradient-to-r from-red-900 to-red-600 shadow-lg hover:from-red-700 hover:to-red-500 transition-transform transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 outline-none">
-            Get Started
+          <Link href={"#"}className="px-8 py-4 text-lg text-white rounded-md bg-gradient-to-r from-red-900 to-red-600 shadow-lg hover:from-red-700 hover:to-red-500 transition-transform transform hover:scale-105 outline-none cursor-crosshair">
+            Coming Soon
           </Link>
         </div>
       </main>
